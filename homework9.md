@@ -16,8 +16,10 @@ Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）
  * roomDesc(type,totals,list-price,total number,description)
  * room catalog(type)
 * 对Make Reservation用例开展领域建模
+
 ![](https://i.imgur.com/W8dxIfQ.png)
 * 对payment用例开展领域建模
+
 ![](https://i.imgur.com/ND9Yyq5.png)
 * 2、使用 UML State Model，对每个订单对象生命周期建模 
  * 建模对象： 参考 Asg_RH 文档， 对 Reservation/Order 对象建模。
