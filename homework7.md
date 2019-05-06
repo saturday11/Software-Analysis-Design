@@ -3,6 +3,7 @@
 * 绘制用例图模型（到子用例）
 ![](https://i.imgur.com/9HloNWC.png)
 * 给出 make reservation 用例的活动图
+
 ![](https://i.imgur.com/xBx7HJ6.png)
 ### 2、根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景 
 * 分别用多泳道图建模三个场景的业务过程
